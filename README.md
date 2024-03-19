@@ -24,7 +24,6 @@ This project aims to analyze the volatility of four assets using statistical mod
 - challenge.ipynb/: Includes the Jupyter Notebook file for the volatility study.
 
 ## Guidelines
-- You are free to access any source on the internet but the use of Chat GPT 
 - Ensure your code is well-documented and follows Python coding conventions.
 - Include detailed comments in your code to explain the logic and any assumptions made.
 - Provide clear and concise commit messages.
