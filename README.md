@@ -8,7 +8,7 @@ The main focus is to identify the properties of the time series and fit a GARCH 
 ### Prerequisites
 - Git should be installed on your local machine.
 - Python and Jupyter Notebook should be installed.
-- 
+  
 ### Steps
   1. Clone the repository on your local machine. 
   2. Create a new branch called dev_{your name}
