@@ -13,7 +13,7 @@ The main focus is to identify the properties of the time series and fit a GARCH 
   1. Clone the repository on your local machine. 
   2. Create a new branch called dev_{your name}
   3. Open the Jupyter Notebook file to start working on the project.
-  4. Complete the exercise by following the instructions provided in the Jupyter Notebook files.
+  4. Complete the exercise by following the instructions provided in the Jupyter Notebook file.
   5. Push your changes to your branch.
 
 ## About the Project
